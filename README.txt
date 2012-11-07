@@ -1,6 +1,14 @@
+2012 Update:
+To compile, open command prompt and change to directory containing the program ("Java-Tetris-master" if downloaded from github)
+
+$ javac Tetris.java
+$ java Tetris
+
+and the application should open and high score list should display in the command prompt.
+
 Erica Hyman
 12/17/07
-ehyman2@mail.rochester.edu
+ekhyman@gmail.com
 Project 3: Tetris!
 
 Description: Move the blocks and try to eliminate as many rows as possible before you reach the top. Then it's game over!
